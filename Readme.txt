@@ -9,6 +9,3 @@ C-szellemek legyőzése és tárgyak felvétele
 R-táblák olvasása
 Q-a felvett tárgy használata
 
-Egyenlőre 4 füves térkép van továbbá 4 barlang térkép.
-Egyenlőre a játékos célja a barlang megtalálása és a sárga kristály megtalálása.
-Jó szórakozást!
